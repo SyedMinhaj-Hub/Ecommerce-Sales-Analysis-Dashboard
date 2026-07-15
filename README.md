@@ -1,21 +1,21 @@
 # 📊 Ecommerce Sales Analysis Dashboard
 
-## Overview
-This project is an interactive Excel dashboard built to analyze ecommerce sales performance.
+## 📌 Project Overview
+This project is an interactive Excel dashboard built to analyze e-commerce sales data. It provides insights into sales performance, profit, customer behavior, and regional trends using Excel's data analysis features.
 
-## Tools Used
+## 🛠️ Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
 - Conditional Formatting
-- Data Cleaning
+- Dashboard Design
 
-## Dashboard Preview
+## 📷 Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
-## Key Metrics
+## 📈 Key Insights
 - Total Sales
 - Total Profit
 - Total Orders
@@ -23,14 +23,17 @@ This project is an interactive Excel dashboard built to analyze ecommerce sales 
 - Sales by Region
 - Monthly Sales Trend
 
-## Skills Demonstrated
+## 💡 Skills Demonstrated
 - Data Cleaning
 - Data Analysis
-- Dashboard Design
-- Pivot Tables
+- Dashboard Development
+- Data Visualization
 - Interactive Reporting
 
-## Files
-- Ecommerce Sales Analysis Dashboard project.xlsx
+## 📂 Files
+- Ecommerce_Sales_Analysis_Dashboard.xlsx
 - dashboard.png
+- README.md
 
+## 👤 Author
+Syed Minhaj Hussain
